@@ -1,0 +1,28 @@
+# MovieLens Raw Datasets
+movie.csv
+rating.csv
+tag.csv
+genome_scores.csv
+genome_tags.csv
+link.csv
+
+# Processed & Sampled Datasets
+ratings_sampled.csv
+movies_sampled.csv
+
+# Saved Models & Similarity Matrices
+*.pkl
+*.npy
+
+# Python Cache & Notebook Checkpoints
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Local Configs
+.env
+.gemini/
+
+# Visualizations/Images
+*.png
+
